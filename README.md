@@ -15,5 +15,5 @@ This project aims to develop a predictive model for estimating energy consumptio
 ### Conclusion
 
 This project successfully developed an accurate predictive model for energy consumption in smart homes.
-- Prediction precentage(on train dataset) -> 89%
-- Prediction precentage(on test dataset) -> 88.9%
+- Prediction precentage(on train dataset) -> 88.96%
+- Prediction precentage(on test dataset) -> 88.95%
